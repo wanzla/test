@@ -1,3 +1,1 @@
-pwelfèplasdasd
-wwokfpowekhjwefb
-# test
+First README with bash
